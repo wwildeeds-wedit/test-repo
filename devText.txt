@@ -1,3 +1,7 @@
 
 test input ..
+<<<<<<< HEAD
 modified from main branch
+=======
+
+>>>>>>> newDev
